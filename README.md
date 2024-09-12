@@ -62,12 +62,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
 ### Deployment
-### Demo
-https://github.com/phanvanlinhh/simple-todo-app/blob/main/src/images/Screenshot%202024-09-12%20133140.png
-https://github.com/phanvanlinhh/simple-todo-app/blob/main/src/images/Screenshot%202024-09-12%20133058.png
-https://github.com/phanvanlinhh/simple-todo-app/blob/main/src/images/Screenshot%202024-09-12%20133209.png
+
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Demo
+<a href=""><img src="https://github.com/phanvanlinhh/simple-todo-app/blob/main/src/images/Screenshot%202024-09-12%20133140.png" alt="add-new-todo"></a>
+<a href=""><img src="https://github.com/phanvanlinhh/simple-todo-app/blob/main/src/images/Screenshot%202024-09-12%20133058.png" alt="update-new-todo"></a>
+<a href=""><img src="https://github.com/phanvanlinhh/simple-todo-app/blob/main/src/images/Screenshot%202024-09-12%20133209.png" alt="job-lists"></a>
